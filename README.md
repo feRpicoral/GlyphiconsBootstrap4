@@ -16,3 +16,9 @@
 ```
 
 * If you have problems using the GitHub link as `href`, try downloading the file to your machine/server. The same is valid to the font files (you can find the link to download in the firsts lines of the CSS file).
+
+* If you want more icons, take a look at Font Awesome. With the following stylesheet you can use all icons, including the "pro" ones
+````html
+<link rel="stylesheet" href="https://kit-pro.fontawesome.com/releases/v5.11.2/css/pro.min.css" type="text/css">
+
+```
