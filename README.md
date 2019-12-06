@@ -7,7 +7,7 @@
 1. Link this file to your project;
 
  ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/feRpicoral/GlyphiconsBootstrap4/master/glyphicons.css" type="text/css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/feRpicoral/GlyphiconsBootstrap4/master/glyphicons.css" type="text/css">
 ```
 3. Use normally, as you would if you were using Bootstrap 3;
 
