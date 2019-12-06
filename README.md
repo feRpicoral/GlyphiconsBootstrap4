@@ -20,5 +20,4 @@
 * If you want more icons, take a look at Font Awesome. With the following stylesheet you can use all icons, including the "pro" ones
 ````html
 <link rel="stylesheet" href="https://kit-pro.fontawesome.com/releases/v5.11.2/css/pro.min.css" type="text/css">
-
 ```
