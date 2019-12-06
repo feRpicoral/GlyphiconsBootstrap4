@@ -2,10 +2,17 @@
 
  Do you miss the good old glyphicons from Bootstrap3 and want to use them on your Bootstrap4 project? I got you covered!
 
-* All the font files are hosted in Bootstrap's CDN. All you have to upload is this CSS file!
+* All the font files are hosted in Bootstrap's CDN and the CSS file is in here, at GitHub. You don't have to download anything!
 
-1. Add this CSS file to your project (feel free to rename it);
-2. Link it to the HTML file you would like to use glyphicons;
-4. Use normally, as you would if you were using Bootstrap 3;
+1. Link this file to your project;
 
-If you want to have the font files on your machine/server, you can find the link to download them in the firsts lines of the CSS file. 
+ ```html
+<link rel="stylesheet" href="https://raw.githubusercontent.com/feRpicoral/GlyphiconsBootstrap4/master/glyphicons.css" type="text/css">
+```
+3. Use normally, as you would if you were using Bootstrap 3;
+
+ ```html
+<span class="glyphicon glyphicon-picture"></span>
+```
+
+* If you have problems using the GitHub link as `href`, try downloading the file to your machine/server. The same is valid to the font files (you can find the link to download in the firsts lines of the CSS file).
