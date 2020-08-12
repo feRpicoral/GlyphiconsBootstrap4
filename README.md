@@ -15,7 +15,7 @@
 <span class="glyphicon glyphicon-picture"></span>
 ```
 
-* If you have problems using the GitHub link as `href`, try downloading the file to your machine/server. The same is valid to the font files (you can find the link to download in the firsts lines of the CSS file).
+* If you have problems using the GitHub link as `href`, try downloading the file to your machine/server. The same is valid to the font files (you can find the link to download in the first lines of the CSS file).
 
 * If you want more icons, take a look at Font Awesome. With the following stylesheet you can use all icons, including the "pro" ones
 ````html
